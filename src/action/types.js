@@ -1,0 +1,6 @@
+export const REFRESH = "REFRESH"
+export const CHANGE_LANG = "CHANGE_LANG"
+export const START = "START"
+export const FINISH = "FINISH"
+export const CORRECT_WORD = "CORRECT_WORD"
+export const WRONG_WORD = "WRONG_WORD"

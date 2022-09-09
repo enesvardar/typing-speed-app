@@ -1,0 +1,70 @@
+
+
+
+
+/* 
+.container{
+    background-color: rgb(127, 251, 255);
+    min-height: 100vh;
+    text-align: center;
+}
+
+div{
+    padding: 10px;
+}
+
+
+.box{
+    background-color: rgb(127, 229, 255);
+    min-height: 100vh;
+    width: 80%;
+    margin: auto;
+}
+
+.option {
+    right: 0px;
+    width: 95%;
+    text-align:right;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.option select{
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.textBox {
+    height: 230px;
+    width: 95%;
+    border: 5px outset rgb(127, 168, 255);
+    background-color: white; 
+    margin: auto;
+}
+
+.input {
+    width: 50%;
+    margin: auto;
+}
+
+.input input{
+    width: 100%;
+    height: 50px;
+    border: 5px outset rgb(127, 168, 255);
+}
+
+.parag{
+    word-break: break-all;
+    padding: 10px;
+}
+
+.word{
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif;
+    user-select:none;
+    padding: 1px;   
+}
+ */
+
