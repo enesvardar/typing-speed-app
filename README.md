@@ -1,4 +1,4 @@
-<img src="https://github.com/enesvardar/typing-speed-app/blob/master/img/img.JPG""/>
+<img src="https://github.com/enesvardar/typing-speed-app/blob/master/img/img.JPG"/>
 
 
 # Getting Started with Create React App
